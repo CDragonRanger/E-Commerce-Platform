@@ -1,4 +1,4 @@
-# Shopping Cart System
+# E-Commerce Platform
 
 A simple command-line based shopping cart system implemented in C. This program allows users to create accounts, log in, view products, add products to their cart, purchase items, and view their transaction history. The system also supports inventory management, where new products can be added or existing ones can be updated.
 
